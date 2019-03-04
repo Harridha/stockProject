@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "title": "SBI",
+            "price": "230.256",
+            "priceChange": "23.654",
+            "pricePerCentage": "1.203"
+        },
+        {
+            "id": 2,
+            "title": "ICIC",
+            "price": "130.36",
+            "priceChange": "12.125",
+            "pricePerCentage": "4.5236"
+        },
+        {
+            "id": 3,
+            "title": "TCS",
+            "price": "984.563",
+            "priceChange": "32.125",
+            "pricePerCentage": "3.23"
+        },
+        {
+            "id": 4,
+            "title": "IB",
+            "price": "520.124",
+            "priceChange": "74.234",
+            "pricePerCentage": "14.203"
+        }
+    ]
+}
