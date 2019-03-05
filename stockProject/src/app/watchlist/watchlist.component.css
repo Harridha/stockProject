@@ -7,3 +7,10 @@
     padding: 10px;
     align-items: center;
 }
+
+.watch-list {
+    border: 1px solid #afafd0;
+    border-radius: 5px;
+    margin: 20px;
+    background-color: aliceblue;
+}
